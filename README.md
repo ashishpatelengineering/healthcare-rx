@@ -2,7 +2,8 @@
 
 Enterprise prescription analytics built on React + FastAPI + Snowflake.
 Deployed on Render (backend) and Vercel (frontend).
-[Go to App](https://healthcare-rx.vercel.app/)
+
+[Health Care Rx](https://healthcare-rx.vercel.app/)
 ---
 
 ## Table of Contents
