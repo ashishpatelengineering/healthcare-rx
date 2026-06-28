@@ -169,14 +169,16 @@ In the `backend/` folder, copy `.env.example` and rename the copy to `.env`.
 Open `.env` in any text editor and fill in your Snowflake credentials:
 
 ```
-SNOWFLAKE_ACCOUNT=your_account_identifier
-SNOWFLAKE_USER=your_username
-SNOWFLAKE_PASSWORD=your_password
+SNOWFLAKE_ACCOUNT=XXXXXXX-XXXXXXX
+SNOWFLAKE_USER=YOUR_USERNAME
+SNOWFLAKE_PASSWORD=your_password_here
 SNOWFLAKE_WAREHOUSE=HEALTHCARE_WH
 SNOWFLAKE_DATABASE=ANALYTICS_DB
 SNOWFLAKE_SCHEMA=HEALTHCARE
 SNOWFLAKE_ROLE=ACCOUNTADMIN
 ```
+
+> The SNOWFLAKE_ACCOUNT format is two parts separated by a dash e.g. MQQBDOA-RT34396. Do NOT include .snowflakecomputing.com
 
 Save it. **Never push this file to GitHub** — it is already listed in `.gitignore`.
 
@@ -460,7 +462,7 @@ Keep your `.env` file safe and never share it. Here is what each value means:
 
 | Variable | Where to Find It |
 |----------|-----------------|
-| `SNOWFLAKE_ACCOUNT` | Snowflake → bottom left → Account → Account Identifier |
+| `SNOWFLAKE_ACCOUNT` | Snowflake → click your name bottom left → Account → copy the identifier. Format looks like MQQBDOA-RT34396 (two parts separated by a dash) |
 | `SNOWFLAKE_USER` | Your Snowflake login username |
 | `SNOWFLAKE_PASSWORD` | Your Snowflake login password |
 | `SNOWFLAKE_WAREHOUSE` | Snowflake → Admin → Warehouses |
