@@ -1,0 +1,3 @@
+channel_id,channel_name,channel_type,fulfillment_mode,notes
+C001,In-Hospital Pharmacy,In-Person,Immediate,Filled at hospital pharmacy at time of visit
+C002,Online Pharmacy,Digital,Delivery,Ordered online; delivered to patient address

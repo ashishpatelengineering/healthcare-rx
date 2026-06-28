@@ -1,0 +1,11 @@
+hospital_id,hospital_name,region,hospital_size,city,state
+H001,St. Mary Medical Center,Northeast,large,Boston,MA
+H002,Riverside General Hospital,South,large,Houston,TX
+H003,Mountain View Health System,West,medium,Denver,CO
+H004,Lakeside Community Hospital,Midwest,small,Chicago,IL
+H005,Pacific Coast Medical Center,West,large,Los Angeles,CA
+H006,Sunrise Regional Hospital,South,medium,Atlanta,GA
+H007,Great Plains Medical Center,Midwest,medium,Kansas City,MO
+H008,Northeast University Hospital,Northeast,large,New York,NY
+H009,Desert Springs Medical Center,West,small,Phoenix,AZ
+H010,Blue Ridge Community Hospital,South,small,Charlotte,NC

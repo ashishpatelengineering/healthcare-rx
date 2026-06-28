@@ -1,0 +1,41 @@
+drug_id,drug_category,drug_name,drug_class,base_cost_30d,base_price_30d
+D001,Cardiovascular,Atorvastatin 40mg,Statin,8.5,45.0
+D002,Cardiovascular,Lisinopril 10mg,ACE Inhibitor,4.2,28.0
+D003,Cardiovascular,Metoprolol 50mg,Beta Blocker,5.8,32.0
+D004,Cardiovascular,Amlodipine 5mg,Calcium Channel Blocker,6.1,35.0
+D005,Cardiovascular,Warfarin 5mg,Anticoagulant,12.0,68.0
+D006,Diabetes,Metformin 500mg,Biguanide,3.5,22.0
+D007,Diabetes,Glipizide 5mg,Sulfonylurea,7.8,42.0
+D008,Diabetes,Sitagliptin 100mg,DPP-4 Inhibitor,85.0,195.0
+D009,Diabetes,Insulin Glargine,Long-acting Insulin,62.0,145.0
+D010,Diabetes,Empagliflozin 10mg,SGLT2 Inhibitor,95.0,210.0
+D011,Antibiotics,Amoxicillin 500mg,Penicillin,4.0,25.0
+D012,Antibiotics,Azithromycin 250mg,Macrolide,12.5,55.0
+D013,Antibiotics,Ciprofloxacin 500mg,Fluoroquinolone,15.0,62.0
+D014,Antibiotics,Doxycycline 100mg,Tetracycline,8.0,38.0
+D015,Antibiotics,Trimethoprim/SMX,Sulfonamide,5.5,30.0
+D016,Mental Health,Sertraline 50mg,SSRI,14.0,58.0
+D017,Mental Health,Escitalopram 10mg,SSRI,18.0,72.0
+D018,Mental Health,Bupropion 150mg,NDRI,22.0,88.0
+D019,Mental Health,Lorazepam 1mg,Benzodiazepine,18.0,75.0
+D020,Mental Health,Quetiapine 25mg,Atypical Antipsychotic,38.0,120.0
+D021,Pain Management,Ibuprofen 600mg,NSAID,2.5,18.0
+D022,Pain Management,Naproxen 500mg,NSAID,4.0,24.0
+D023,Pain Management,Cyclobenzaprine 5mg,Muscle Relaxant,11.0,48.0
+D024,Pain Management,Tramadol 50mg,Opioid Agonist,22.0,85.0
+D025,Pain Management,Gabapentin 300mg,Anticonvulsant/Pain,16.0,65.0
+D026,Respiratory,Albuterol 90mcg,Short-acting Beta2,18.0,78.0
+D027,Respiratory,Fluticasone 110mcg,Inhaled Corticosteroid,42.0,130.0
+D028,Respiratory,Montelukast 10mg,Leukotriene Antagonist,28.0,95.0
+D029,Respiratory,Tiotropium 18mcg,Long-acting Anticholinergic,55.0,145.0
+D030,Respiratory,Prednisone 20mg,Oral Corticosteroid,6.5,38.0
+D031,Gastrointestinal,Omeprazole 20mg,PPI,8.0,42.0
+D032,Gastrointestinal,Pantoprazole 40mg,PPI,10.0,48.0
+D033,Gastrointestinal,Ondansetron 4mg,5-HT3 Antagonist,22.0,88.0
+D034,Gastrointestinal,Metoclopramide 10mg,Prokinetic,9.0,42.0
+D035,Gastrointestinal,Mesalamine 400mg,Aminosalicylate,65.0,165.0
+D036,Thyroid,Levothyroxine 50mcg,Thyroid Hormone,5.0,28.0
+D037,Thyroid,Levothyroxine 100mcg,Thyroid Hormone,5.5,30.0
+D038,Thyroid,Methimazole 5mg,Thionamide,14.0,58.0
+D039,Dermatology,Tretinoin 0.05%,Retinoid,28.0,95.0
+D040,Dermatology,Hydrocortisone 1%,Topical Corticosteroid,6.0,32.0
